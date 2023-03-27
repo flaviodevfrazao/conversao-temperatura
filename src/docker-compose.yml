@@ -1,0 +1,12 @@
+version: '3.7'
+
+networks:
+  netconversao:
+
+services:
+  conversao:
+    build: .
+    networks:
+      - netconversao
+    ports:
+      - 8080:8080
