@@ -1,7 +1,7 @@
 # Projeto conversão de temperatura 
 
 ## O Projeto Conversão Temperatura foi criado no treinamento Devops Pro ministrado por Fabricio Veronez como forma de desafio para os alunos. O desafio
-consta em criar o dockerfile e docker compose desse aplicação para certificar o aluno sobre os conhecimentos do Docker.
+## consta em criar o dockerfile e docker compose desse aplicação para certificar o aluno sobre os conhecimentos do Docker.
 
 ## Abaixo mais instruções do próprio Fabricio sobre o projeto.
 
